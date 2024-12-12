@@ -1,1 +1,3 @@
-# ejemplo-git
+## ejemplo-git
+
+Repositorio para el manejo basico de git 
